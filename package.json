@@ -1,7 +1,7 @@
 {
-  "name": "long-haul",
+  "name": "Sathvi",
   "version": "0.0.0",
-  "description": "A minimal, type-focused Jekyll theme. ",
+  "description": "Personal Profile ",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
