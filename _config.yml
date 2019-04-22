@@ -1,7 +1,8 @@
 title: Sathvi Siva
 description: Data Scientist
 
-url: https://github.com/sathvisiva
+url: http://sathvisiva.github.io
+
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
